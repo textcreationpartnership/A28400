@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions propounded to George Whitehead and George Fox &amp;c. Who disputed by turnes against one Universitie man in Cambridge. Aug. 29. 1659. By R.B.</title>
+            <author>Blome, Richard, d. 1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28400</idno>
+            <idno type="STC">Wing B3219</idno>
+            <idno type="STC">ESTC R221346</idno>
+            <idno type="EEBO-CITATION">99832666</idno>
+            <idno type="PROQUEST">99832666</idno>
+            <idno type="VID">37140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2165:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions propounded to George Whitehead and George Fox &amp;c. Who disputed by turnes against one Universitie man in Cambridge. Aug. 29. 1659. By R.B.</title>
+                  <author>Blome, Richard, d. 1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.B. = Richard Blome.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Another edition of 24 p., including answers to the questions, is in the Thomason Tract Collection of the British Library. Cf. Thomason E.764[3].</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitehead, George, 1636?-1723 --  Controversial literature --  Early works to 1800.</term>
+               <term>Fox, George, 1624-1691 --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="debate_questions_for_Quakers">
+            <pb facs="tcp:37140:1"/>
+            <head>QUESTIONS Propounded to GEORGE WHITEHEAD AND GEORGE FOX, &amp;c. Who diſputed by Turnes AGAINST ONE UNIVERSITIE MAN IN <hi>CAMBRIDGE.</hi> Aug. 29. 1659.</head>
+            <byline>By <hi>R. B.</hi>
+            </byline>
+            <p>1. <seg rend="decorInit">D</seg>O not you repent for your endeavouring vainly to defend <hi>Aug.</hi> 29. 1659. in ſo great a Congregation theſe poſitions printed in a book writ by <hi>George Whitehead</hi> (who profeſſe your ſelf to be an Am<g ref="char:EOLhyphen"/>baſſadour of Chriſt and yet that you pretend no more Com<g ref="char:EOLhyphen"/>miſſion than all Hereticks have with as much colour pretended) viz.
+<pb n="2" facs="tcp:37140:2"/>
+               <list>
+                  <item>1.<note place="margin">Pag. <hi>1,</hi>
+                     </note> That the Bible is not the word of God.</item>
+                  <item>2.<note place="margin">Lin. <hi>1.</hi>
+                     </note> That to aſſert the <hi>Scripture is the word of God,</hi> is one of the deceitfull imaginations which the Prieſts of this generation have deceived the people with.</item>
+                  <item>3.<note place="margin">p. <hi>1.</hi> lin. laſt,</note> That he who aſſerts there be three perſons in the bleſſed Trinity is a dreamer and a conjurer.</item>
+                  <item>4. That he who aſſerts there be three ſuch perſons, ſhall be ſhut up with them, in perpetuall darkneſs for the lake and the pit.</item>
+               </list>
+            </p>
+            <p>2. Did not you offend God by aſſerting there and then (at the concluſion of your diſpute) that the ſame thing at the ſame time and place might be both viſible and inviſible, plainly ſeen by the eyes of many men (and this upon record) and yet impoſ<g ref="char:EOLhyphen"/>ſible to be ſeen at that time and place?</p>
+            <p>3. If you ſtill think this true, may you not be (as your Oppo<g ref="char:EOLhyphen"/>nent inferred) a Quaker, and no Quaker, a Papiſt and no Papiſt, a Heretick and no Heretick, at the ſame time and place?</p>
+            <p>4. Do you think 'tis the part of a good Diſputant to deny the concluſion of a ſyllogiſm, as you there and then did ſeverall times together?</p>
+            <p>5. Why do you ſleight both the Sacraments, Baptiſm and the Lords Supper? which the Scripture ſaith are neceſſary to Salva<g ref="char:EOLhyphen"/>tion. For Chriſt ſaith Joh. 6.53. Verily, verily except ye eat the fleſh of the Son of man, and drink his blood, ye have no life in you. Ye ſay that ye have life though you do not eat, &amp;c. Chriſt ſaith, <hi>Take, eat: do</hi> this in remembrance of me. You ſay <hi>do not</hi> take, <hi>do not</hi> eat, <hi>do not</hi> do this, &amp;c. Chriſt ſaith, verily, verily except a man be borne of water (mark water) and of the Spirit he cannot enter into the Kingdom of God; you ſay, that no man need to be baptized, he may enter into the Kingdom of heaven though he be not, &amp;c.</p>
+            <p>6. Is it not evident that ſome of you (if not all more or leſs) are poſſeſſed with the Devill, when <hi>John Gilpin</hi> in his book, at teſted by the Major and chief men in <hi>Kendall,</hi> confeſſeth that he
+<pb n="3" facs="tcp:37140:2"/>was poſſeſt with the Devill while he was a Quaker; and divers of your ſelves confeſs, in Sauls errand p. 4. 5. That at ſome of your meetings many men, women and little children, have been ſtrangely wrought upon in their bodies, and brought to fall, foam at the mouth, roar, and ſwell in their bellies?</p>
+            <p>7. Do not you eſteem your ſpeakings to be of as great autho<g ref="char:EOLhyphen"/>rity as any chapters in the Bible?</p>
+            <p>8. Do not you hold it unlawfull to expound or interpret the H. Scriptures?</p>
+            <p>9. Do not ſome of you ſay that he who preaches by a Text is a conjurer, &amp;c.</p>
+            <p>10. That the Holy Bible ought to be burnt?</p>
+            <p>11. Do not you think it needleſſe to pray for the pardon of your ſins?</p>
+            <p>12. Do not you believe that there is no heaven nor hell, nor other world after this life?</p>
+            <p>13. Do you believe that all theſe bodies which are met here this day ſhall depart out of this life and that they ſhall riſe a<g ref="char:EOLhyphen"/>gain at the laſt day.</p>
+            <p>14. Do not you ſay that the Magiſtrate who makes Acts of Parliament and doth not receive them from God, as <hi>Moſes</hi> did, doth act contrary to the law of God? as I read in the book cal<g ref="char:EOLhyphen"/>led <hi>Fiery darts of the Devill quenched,</hi> printed by <hi>Calvert</hi> 1654. and ſubſcribed by ſix Quakers.</p>
+            <p>15. Do not you ſay in the ſame book that the H. Scripture is not the Saints rule, nor the ground of his faith, p. 19. Not the Saints guide, nor the rule of faith and patience, pag. 30. and 32. of the ſame book: and do not you by ſuch doctrines and refu<g ref="char:EOLhyphen"/>ſing to take the oath of abjuration ſhow your ſelves to be Pa<g ref="char:EOLhyphen"/>piſts?</p>
+            <p>16. Is it not confeſſed by your ſelves in Sauls errand p. 4. (and atteſted by ſeverall Gentlemen, Juſtices of peace, Miniſters of the Goſpell, and people in the County of <hi>Lanchaſter</hi>) that you teach doctrines that break the relation of Subjects to their
+<pb n="4" facs="tcp:37140:3"/>Magiſtrates, wives to their husbands, children to their parents, Servants to their Maſters, congregations to their Miniſters, and of a people to their God?</p>
+            <p>17. Do you who call your ſelves Saints ſin in this life? <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> ſaith, there is not a juſt man upon earth that ſinneth not, Eccle. 7.20. See Prov. 24.16. 1. Kings. 8.46. and 2. Chro. 6.36, Jam, 3.2.</p>
+            <p>18. Are you ſtill of opinion, that to affirm if any man ſay he hath no ſin he deceives himſelf, is to affirm a falſity as concern<g ref="char:EOLhyphen"/>ing the Saints or Quakers? Which you affirmed in the Majors houſe.</p>
+            <p>19. Did not you ſin laſt week in ſaying that the Univerſitie Man preacht for hire, and made bargaines for his Miniſteriall of<g ref="char:EOLhyphen"/>fices, and took ten ſhillings for a Funerall Sermon, if you cannot prove theſe things? You ſee he denyes them all and ſayes he never took a penny for a funerall Sermon in his life, &amp;c. I de<g ref="char:EOLhyphen"/>ſire you to prove them all, or tell me whether ſlandering be a ſin in you.</p>
+            <p>20. Whereas a book intituled, Fiery darts, ſaith p. 26. that ſince the Apoſtles dayes there hath been a great Apoſtacy and that a true Church of Chriſt could not be found: are you of the ſame mind?</p>
+            <p>21. Do you mean that there was never a true Church to be found from the Apoſtles dayes till now?</p>
+            <p>22. If ſo, what became of the Church all the while? Or do you confeſs 'twas not in being?</p>
+            <p>23. If ſo, how was Chriſt true to his promiſe, who ſaid he would be with his Church to the end of the World? He could not be with a Church that was not in being?</p>
+            <p>24. What think you became of all the Martyrs for the firſt three hundred Years after Chriſt, or of thoſe in <hi>England</hi> in Q <hi>Maries</hi> dayes? Were they ſaved or not?</p>
+            <p>25. Why do you cenſure our Clergy, and us Chriſtians for trying your Spirits, when the <hi>Apostle bids us try the Spirits?</hi> Sure
+<pb n="5" facs="tcp:37140:3"/>then there is a falſe and a true Spirit, and how can we try which is true or falſe but by the Scriptures?</p>
+            <p>26. Do you think that Fornication in a Quaker is ſin?</p>
+            <p>27. How do you know that Fornication is a ſin in one that is a Quaker, but by the Law and the Goſpell?</p>
+            <p>28. How do you know there is a Spirit, or a Conſcience?</p>
+            <p>29. Is the Morall Law, or the ten Commandments a rule to the Chriſtians life, or is it not?</p>
+            <p>30. Do you approve the doings of thoſe Men and Women who lye together naked in the Streets, fathering it upon the Spi<g ref="char:EOLhyphen"/>rit.</p>
+            <p>31. Whereas a Weaver againſt the mind of his Wife fol<g ref="char:EOLhyphen"/>lowed a company of you from <hi>Coaton</hi> to <hi>Cambridge,</hi> intreating you (all the way) to tell him what your Religion was, and how he might come to be of your Religion, and you gave him no o<g ref="char:EOLhyphen"/>ther anſwer but this, that he ſhould follow the light within him: So he asked you, what that was, and you would not tell him. I deſire to know what it is, that men may underſtand what to take heed to?</p>
+            <p>32. Is not your meaning this, that the Ambitious man ſhould follow his ambitious Spirit, the laſcivious man his wanton Spi<g ref="char:EOLhyphen"/>rit, &amp;c.</p>
+            <p>33. If you ſay that this is not your meaning, how can you aſ<g ref="char:EOLhyphen"/>ſure me that another publick preacher of the Quakers will not tell me to morrow, that by the Spirit he means this? Since after the Univerſitie man had publickly proved divers blaſphe<g ref="char:EOLhyphen"/>mies to be in <hi>Whiteheads</hi> Book, you <hi>George Fox</hi> deſired the people at laſt to take notice, that the ſaid book was not yours but his, with whom the Univerſitie man was appointed by the Ma<g ref="char:EOLhyphen"/>jor to diſpute.</p>
+            <p>34. Do you <hi>George Fox</hi> ſtill profeſs your ſelf to be the eter<g ref="char:EOLhyphen"/>nall Judge of the World, and the way, the truth, and the life?</p>
+            <p>35. Did <hi>Richard Huberthorn</hi> well in writing that Chriſts coming in the fleſh was but a figure?</p>
+            <pb n="6" facs="tcp:37140:4"/>
+            <p>36. Did that Quaker ſin therein or not, who brought lately, on the Lords-day, an old Dublet into Dr. <hi>Gells</hi> Church in Lon<g ref="char:EOLhyphen"/>don, and ſate upon the Communion Table mending it, while the Dr. was preaching, the Pariſhioners forbidding him.</p>
+            <p>37. If the Saints need not be taught by men, (as you ſay) is it not needleſs for you to teach one onother?</p>
+            <p>38. Do you think it a Tenants dutie to pay rent to his Land<g ref="char:EOLhyphen"/>lord?</p>
+            <p>39. Whereas there is ſome talke by ſome Quakers of divi<g ref="char:EOLhyphen"/>ding mens eſtates, and having all things common, do you believe that it is lawfull and fitting ſo to do?</p>
+            <p>40. Do you not think that the Clergy have as much to ſhew for taking tythes, as any man in England hath for taking rent for land left him by his Anceſtours?</p>
+            <p>41. Do you not think it as lawfull to bereave all men of the one as of the other?</p>
+            <p>42. Do you think in good earneſt that 'tis lawfull for Wo<g ref="char:EOLhyphen"/>men to preach in the Church, as you aſſerted publickly laſt week? And that St. <hi>Pauls</hi> prohibition concerns onely married women not Virgins, and Widowes if you think ſo, then I ask further, why you may not ſay as well, that the ſeaventh Com<g ref="char:EOLhyphen"/>mandment concerns Virgins and Widowes onely, and not married women.</p>
+            <p>43. When you tell us that you have faith in Chriſt, do you mean Chriſt whoſe perſon is now aſcended into heaven above the Clouds or do you mean onely a Chriſt within you?</p>
+            <p>44. Did not <hi>Edward Burrough, James Naylor,</hi> and others affirm, that he who expects to be ſaved by that Jeſus Chriſt who died at <hi>Jeruſalem,</hi> ſhall be deceived? See their two Books, and the brief relation of the Northern Quakers, p. 22. &amp;c. <hi>Billing-ſlyes</hi> defence of Scriptures, p. 16. The perfect Phariſee, p. 8. and <hi>Farmers</hi> myſtery of godlineſs.</p>
+            <p>45. Do not you <hi>George Whitehead</hi> blaſphemouſly take to your ſelf an attribute of God, while you pretend ordinarily to know
+<pb n="7" facs="tcp:37140:4"/>the hearts of men: and tell Mr. <hi>Townſend</hi> of <hi>Norwich</hi> (in the ſecond page of your <hi>Iſhmael</hi>) that <hi>the light of God is departed from his Conſcience?</hi>
+            </p>
+            <p>46. Do not you (to uſe your own words) <hi>Walke in the ſteps of the falſe Prophets,</hi> while you ordinarily ſpeak and print ſuch rai<g ref="char:EOLhyphen"/>ling language, as pag. 3. of your Iſhmael. <hi>Thou prieſt Townſend, thou dreamer, thou deceiver, witch, lier, blind guide, without Chriſt and his knowledge, and in Antichriſt enemy of God,</hi> &amp;c.</p>
+            <p>47. Was it any thing to the purpoſe in the midſt of a diſ<g ref="char:EOLhyphen"/>pute concerning points of faith to ask the Univerſitie man, what he thought of Sr. <hi>George Booth?</hi> Was not this queſtion a ſilly trap laid for him who deſired nothing but to reduce you from Hereſy?</p>
+            <p>48. Do not we live in a fine age when ſuch men as you can be permited in a Corporation Town (in <hi>Cambridge</hi> one of the eyes of the Nation) to rail an hour together againſt Chriſt Je<g ref="char:EOLhyphen"/>ſus, &amp; the other two perſons in the ever Bleſſed <hi>Trinitie</hi> &amp; againſt the Holy word of God; In the ſame Moneth a Miniſter of the Goſpell, ſon to a Parliament man, was ſent for by a company of Souldiers by the Major, and kept priſoner ſome time, for <hi>praying</hi> for all Chriſtian Kings, Princes, and Governours, 1 Tim. 2.1.</p>
+            <p>49. What credit may the <hi>Common people</hi> give to any thing you ſay, while no learned perſon is near; when they have heard you proved undeniably to be as damnable an Heretick as ever was in the world, from that very place in Scripture which was the only text you brought to prove your ſelves no Hereticks, 2 Pet. 2.1, 2. You not anſwering a word for your ſelf?</p>
+            <p>50. Why do you encourage unlearned people to preach without learning, when St. <hi>Peter</hi> ſaith, that in St. <hi>Pauls</hi> epiſtles are ſome things hard to be underſtood which they that be un<g ref="char:EOLhyphen"/>learned and unſtable wreſt, as they do other Scriptures, to their own deſtruction?</p>
+            <p>51. Was it the Spirit of truth or of errour, that made the Quakers run after <hi>Hen. Davill,</hi> a Tanner of <hi>Richmond,</hi> almoſt a
+<pb n="8" facs="tcp:37140:5" rendition="simple:additions"/>mile (while he was walking to ſee his ground) and tell him with open mouth, That the Spirit of God ſent them to tell him <hi>he was a ſeducer of the people, one of the corrupt Clergy,</hi> &amp;c. While 'tis commonly known he neither is, nor was a Clergy man, nor preacher. Did ever the Spirit of God ſend, any ſuch frivolous er<g ref="char:EOLhyphen"/>rands as this, and thoſe mentioned p. 45. of the perfect Phariſee?</p>
+            <p>52. Do you ſtill think it an unanſwerable argument to prove the Univerſity man an Heretick, becauſe Biſhops (who built Col<g ref="char:EOLhyphen"/>leges and Hoſpitalls gave all their goods to the poor and their bodies to be burnt) were covetous men?</p>
+            <p>53. Do you think that <hi>Cotton Croſland,</hi> who hanged himſelf, or <hi>Hugh Bisbroune,</hi> who committed buggery with a Mare, or that <hi>John Gilpin,</hi> who confeſſeth he was about to cut his throat, did ſin or not ſin in ſo doing?</p>
+            <p>54. Did your companion ſin or not by drawing his ſword in your meeting houſe tother day, to cut the knot when he could not untie it, and anſwer the argument.</p>
+            <p>55. Laſtly, I entreat you to tell me after you have given me in writing a punctuall anſwer to theſe 55. queries how I ſhall know that you will not give me another anſwer next week quite contrary to that which you promiſe to give me now (telling me that the Spirit moves you to ſpeak contradictions as plainly out of your meeting houſe as in it) ſo that I ſhall be as far to ſeek what your Religion is at laſt, as I was at firſt?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37140:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
